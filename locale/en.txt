@@ -1,0 +1,29 @@
+#: locale=en
+
+## Media
+
+### Title
+video_1AACE8EB_3F2A_5F5A_41C9_39F68A157024.label = Ambience Island _ Gurugram _ ambience mall _ usman
+video_205CA9E9_3EEB_D146_41A1_8DA9EF1248CF.label = Ambience Mall - Gurgaon, Haryana, India - 2019
+panorama_2E422D44_3EE6_F14E_41B9_FFE7511C100B.label = delhi-india-8th-oct-2016-festival-decorations-at-a-shopping-mall-in-H4H98F
+panorama_2EECFEFD_3EE6_F33E_41CC_13FD1F924EF6.label = entrance-to-a-dunnes-stores-fashion-store-in-dublin-ireland-with-festive-fashions-displayed-2TA8PN7
+panorama_2EEC6061_3EE6_CF46_41CA_8868CDB6E52A.label = interior-ambience-of-mbk-center-shopping-mall-bangkok-2WJKH5Y
+panorama_2EEF31C4_3EE6_D14E_41C6_7EC1A2AEFF64.label = mdler-passage-cafe-and-bar-mephisto-leipzig-saxony-germany-2R0MCXK
+panorama_2EEFC338_3EE6_D2C6_41C9_842E86433F53.label = new-delhi-india-october-7-2019-ambience-mall-shopping-mall-in-vasant-kunj-in-new-delhi-india-2BJGCD1
+panorama_2EEF24AD_3EE6_D7DE_41AE_CADDABACBF11.label = night-ambience-of-jr-sapporo-station-in-sapporo-stellar-place-EPG0AY
+panorama_2EEF8633_3EE6_D2CA_41CA_76CC33CDA0D2.label = shot-at-night-of-the-east-side-entrance-of-the-shopping-mall-polygone-with-the-fountain-antigone-district-in-winter-2FN4JXK
+
+### Video
+videolevel_6775AE33_3F66_32CA_41BF_9F7E4E0026E3.url = media/video_1AACE8EB_3F2A_5F5A_41C9_39F68A157024_en.mp4
+videolevel_6775AE33_3F66_32CA_41BF_9F7E4E0026E3.posterURL = media/video_1AACE8EB_3F2A_5F5A_41C9_39F68A157024_poster_en.jpg
+videolevel_6777EE19_3F66_32C6_41C5_EA81DF759C8C.url = media/video_205CA9E9_3EEB_D146_41A1_8DA9EF1248CF_en.mp4
+videolevel_6777EE19_3F66_32C6_41C5_EA81DF759C8C.posterURL = media/video_205CA9E9_3EEB_D146_41A1_8DA9EF1248CF_poster_en.jpg
+
+### Video Subtitles
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
